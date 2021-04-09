@@ -6,4 +6,5 @@ set of quite 5L records victimisation Python, Numpy, Pandas and XGBoost
 
 The problem was hosted for Machine Learning Challenge on Hacker Earth. you'll be able to transfer the dataset from the challenge page or from the direct link to identical dataset here
 
-The code achieves concerning ninety seven.6% accuracy in predictions. My best submission stood fifteenth on the leaderboard. Finished nineteenth tho', that was scored on a less correct submission. there have been > two hundred participants with over ninetieth accuracy.
+The code achieves concerning 97.6% accuracy in predictions. My best submission stood nineteenth on the leaderboard. 
+That was scored on a less correct submission. There have been more than two hundred participants with over 90% accuracy.
